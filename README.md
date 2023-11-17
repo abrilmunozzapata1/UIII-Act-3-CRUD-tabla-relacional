@@ -23,7 +23,18 @@ Abril Muñoz
 ![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/6f89debe-6513-4e81-8e18-b5bead6b3d61)
 ### Cuando presionamos en imprimir nos aparece el tiket con los datos del envio
 ![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/5499aaaf-91dc-4277-af44-3b762a054ae8)
-### fin
+### Base de datos
+![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/507c2f40-c7da-4486-b865-bc57591b9560)
+### Tabla envio
+![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/959d2cd2-d133-4bc9-a99c-04caac196855)
+### Tabla productos
+![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/a6589091-4f2f-48ce-a59e-4785e6311188)
+### Tabla ventas
+![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/89b8fc56-0668-4456-931a-e5af34217aa5)
+
+
+
+
 
 
 
