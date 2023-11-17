@@ -23,6 +23,7 @@ Abril Muñoz
 ![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/6f89debe-6513-4e81-8e18-b5bead6b3d61)
 ### Cuando presionamos en imprimir nos aparece el tiket
 ![image](https://github.com/abrilmunozzapata1/UIII-Act-3-CRUD-tabla-relacional/assets/143549033/5499aaaf-91dc-4277-af44-3b762a054ae8)
+### fin
 
 
 
